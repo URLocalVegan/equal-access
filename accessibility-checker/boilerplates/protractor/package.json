@@ -7,7 +7,7 @@
     "devDependencies": {
         "accessibility-checker": "^3.1.6",
         "chromedriver": "*",
-        "express": "^4.16.3",
+        "express": "^5.1.0",
         "protractor": "^5.4.4",
         "serve-index": "^1.9.1"
     }

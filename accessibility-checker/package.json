@@ -21,7 +21,7 @@
     "node": ">=10"
   },
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.13.5",
     "chromedriver": "*",
     "deep-diff": "^1.0.2",
     "js-yaml": "^4.1.0",
@@ -34,7 +34,7 @@
     "adm-zip": "^0.5.9",
     "chai": "^4.3.4",
     "eslint": "^8.4.1",
-    "express": "^4.17.1",
+    "express": "^5.2.1",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-download": "0.0.1",
@@ -60,7 +60,7 @@
     "selenium-webdriver": "4.3.0",
     "serve-index": "^1.9.1",
     "shx": "^0.3.3",
-    "tmp": "0.2.1",
+    "tmp": "0.2.4",
     "typescript": "^4.5.4",
     "url-exists": "^1.0.3",
     "ws": "^8.3.0",

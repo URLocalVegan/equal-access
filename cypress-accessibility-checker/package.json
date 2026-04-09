@@ -39,7 +39,7 @@
     "http-server": "^14.0.0",
     "prettier": "^2.5.1",
     "shx": "^0.3.3",
-    "start-server-and-test": "^1.14.0"
+    "start-server-and-test": "^3.0.0"
   },
   "dependencies": {
     "deep-diff": "^1.0.2",
